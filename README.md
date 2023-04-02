@@ -18,7 +18,7 @@
 Projeto do primeiro bimestre na matéria de Introdução a Computação Gráfica
 
 ## Sobre o projeto
-A proposta do projeto era desenvolver um sistema simples, para fazer retas em um eixo cartesiano, onde o usuário insere alguns valores de entrada: x e y inicial, que seriam referente ao primeiro ponto, o coeficiente angular, valor de x final e o coeficiente linear, para que com esses 3 últimos valores seria possível calcular o valor de y final e montar a reta.
+A proposta do projeto era desenvolver um sistema simples, para fazer retas em um eixo cartesiano, onde o usuário insere alguns valores de entrada: x e y inicial, que seriam referente ao primeiro ponto, o coeficiente angular, valor de x final e o coeficiente linear, para que com esses 3 últimos valores fosse calculado o valor de y final e montar a reta.
 
 <img src="img/img1.PNG">
 
